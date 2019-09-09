@@ -45,7 +45,7 @@
       <workItem from="1547127675612" duration="2069000" />
       <workItem from="1547379346904" duration="92000" />
       <workItem from="1568023352261" duration="944000" />
-      <workItem from="1568032824887" duration="6223000" />
+      <workItem from="1568032824887" duration="6303000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit 👀">
       <created>1547130105805</created>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568043375752</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="test Netlify Identity">
+      <created>1568043404298</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1568043404298</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
