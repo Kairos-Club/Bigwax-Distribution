@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/_redirects" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/media/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,7 @@
       <workItem from="1547127675612" duration="2069000" />
       <workItem from="1547379346904" duration="92000" />
       <workItem from="1568023352261" duration="944000" />
-      <workItem from="1568032824887" duration="6198000" />
+      <workItem from="1568032824887" duration="6223000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit 👀">
       <created>1547130105805</created>
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568043252426</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="test Netlify Identity">
+      <created>1568043375752</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1568043375752</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
