@@ -1,5 +1,5 @@
-/client/ /client/ 200! Role=Client
-/client/ /new-index.html
+/client/* 200! Role=Client
+/client/* /new-index.html 401!
 
 /media/ /media/ 200! Role=Media
 /media/ /new-index.html
