@@ -1,13 +1,14 @@
-/media/*
-  Basic-Auth: media:pass
-  cache-control: max-age=0
-  cache-control: no-cache
-  cache-control: no-store
-  cache-control: must-revalidate
-
 /client/*
   Basic-Auth: client:pass
   cache-control: max-age=0
   cache-control: no-cache
   cache-control: no-store
   cache-control: must-revalidate
+
+/press/*
+  Basic-Auth: press:pass
+  cache-control: max-age=0
+  cache-control: no-cache
+  cache-control: no-store
+  cache-control: must-revalidate
+
