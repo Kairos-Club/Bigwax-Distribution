@@ -1,12 +1,12 @@
 /client/*
-  Basic-Auth: client:pass
+  Basic-Auth: BigwaxCustomer29:tju2Bbt7Ybd
   cache-control: max-age=0
   cache-control: no-cache
   cache-control: no-store
   cache-control: must-revalidate
 
 /press/*
-  Basic-Auth: press:pass
+  Basic-Auth: Press:pPmiGCVaLh3
   cache-control: max-age=0
   cache-control: no-cache
   cache-control: no-store
