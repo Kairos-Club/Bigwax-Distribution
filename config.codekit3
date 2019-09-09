@@ -15,6 +15,14 @@
 		"oAP": "/build/.idea",
 		"oF": 0
 		},
+	"/_headers": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_headers",
+		"oF": 0
+		},
 	"/client/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -313,6 +321,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/media/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/media/index.html",
+		"oF": 0
 		}
 	},
 "hooks": [
