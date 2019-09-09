@@ -329,7 +329,7 @@ img {
   max-width: 250px;
 }
 
-body {
+body.index {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -411,4 +411,25 @@ ul {
 }
 li {
   margin-bottom: 10px;
+}
+
+.bar {
+  z-index: 2;
+  position: absolute;
+  //outline: 2px solid red;
+
+  padding: 10px;
+}
+
+.embed {
+  width: 100vw;
+  height: 100vh;
+
+  top: 0;
+  left: 0;
+
+  display: inline-block;
+  position: fixed;
+
+  z-index: 1;
 }
