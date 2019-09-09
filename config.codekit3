@@ -329,6 +329,14 @@
 		"oA": 0,
 		"oAP": "/media/index.html",
 		"oF": 0
+		},
+	"/new-index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/new-index.html",
+		"oF": 0
 		}
 	},
 "hooks": [
