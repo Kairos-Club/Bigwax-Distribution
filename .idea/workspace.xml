@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="Add Soundsgood Player">
+    <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/press/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/press/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,9 @@
       <workItem from="1568106450146" duration="1293000" />
       <workItem from="1568188033606" duration="404000" />
       <workItem from="1568272106444" duration="397000" />
-      <workItem from="1568621741729" duration="950000" />
+      <workItem from="1568621741729" duration="1567000" />
+      <workItem from="1571644868118" duration="197000" />
+      <workItem from="1572524821564" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit 👀">
       <created>1547130105805</created>
@@ -362,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568622576219</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Update Soundsgood Color 👀">
+      <created>1568622879041</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1568622879041</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,6 +397,7 @@
     <MESSAGE value="test Netlify Identity" />
     <MESSAGE value="Add Spotify embed" />
     <MESSAGE value="Add Soundsgood Player" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Soundsgood Player" />
+    <MESSAGE value="Update Soundsgood Color " />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Soundsgood Color " />
   </component>
 </project>
