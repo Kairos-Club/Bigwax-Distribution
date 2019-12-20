@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/press/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/press/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,21 +14,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QazARxwYYMHm7K7EQe9X4UOwQR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -53,7 +57,9 @@
       <workItem from="1568272106444" duration="397000" />
       <workItem from="1568621741729" duration="1567000" />
       <workItem from="1571644868118" duration="197000" />
-      <workItem from="1572524821564" duration="246000" />
+      <workItem from="1572524821564" duration="443000" />
+      <workItem from="1572700701329" duration="6000" />
+      <workItem from="1576852490498" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit 👀">
       <created>1547130105805</created>
@@ -370,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568622879041</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Change Notion URL 🐇">
+      <created>1572525097539</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1572525097539</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,6 +411,7 @@
     <MESSAGE value="Add Spotify embed" />
     <MESSAGE value="Add Soundsgood Player" />
     <MESSAGE value="Update Soundsgood Color " />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Soundsgood Color " />
+    <MESSAGE value="Change Notion URL " />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Notion URL " />
   </component>
 </project>
