@@ -59,7 +59,8 @@
       <workItem from="1571644868118" duration="197000" />
       <workItem from="1572524821564" duration="443000" />
       <workItem from="1572700701329" duration="6000" />
-      <workItem from="1576852490498" duration="150000" />
+      <workItem from="1576852490498" duration="427000" />
+      <workItem from="1578312265328" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit 👀">
       <created>1547130105805</created>
@@ -383,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572525097539</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Change SoundsGood URL">
+      <created>1576852735024</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1576852735024</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,6 +420,17 @@
     <MESSAGE value="Add Soundsgood Player" />
     <MESSAGE value="Update Soundsgood Color " />
     <MESSAGE value="Change Notion URL " />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Notion URL " />
+    <MESSAGE value="Change SoundsGood URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change SoundsGood URL" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="120" key="CommitChangelistDialog2" timestamp="1576852734594">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="389" y="120" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1576852734594" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1576852738922">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1576852738922" />
   </component>
 </project>
