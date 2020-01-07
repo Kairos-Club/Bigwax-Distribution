@@ -256,6 +256,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/pastille-invert-trans.png": {
+		"ft": 32768,
+		"iS": 19370,
+		"oA": 0,
+		"oAP": "/img/pastille-invert-trans.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/index.htm": {
 		"cB": 0,
 		"ft": 8192,

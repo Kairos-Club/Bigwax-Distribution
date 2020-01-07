@@ -324,6 +324,10 @@ html, body {
   min-height: 85vh;
 }
 
+html {
+  margin-bottom: 90px;
+}
+
 img {
   width: 100%;
   max-width: 250px;
@@ -432,4 +436,33 @@ li {
   position: fixed;
 
   z-index: 1;
+}
+
+.pastille-2020 {
+  display: inline-block;
+  width: 130px;
+  height: 130px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  position: fixed;
+  bottom: -80px; left: -80px;
+  border-radius: 0 45px 0 0;
+  overflow: hidden;
+  z-index: 9997;
+  filter: drop-shadow(0px 0px 1px rgba(178, 157, 107, 1));
+  transition: all 0.2s ease-in-out;
+
+  img {
+    animation: rotating-pastille 4s linear infinite reverse;
+  }
+
+  &:hover {
+    filter: drop-shadow(0px 0px 0px rgba(178, 157, 107, 0));
+    bottom: -20px; left: -20px;
+  }
+}
+
+@keyframes rotating-pastille {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
