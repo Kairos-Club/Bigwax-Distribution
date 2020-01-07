@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,14 +61,7 @@
       <workItem from="1572700701329" duration="6000" />
       <workItem from="1576852490498" duration="427000" />
       <workItem from="1578312265328" duration="3531000" />
-      <workItem from="1578385656662" duration="1182000" />
-    </task>
-    <task id="LOCAL-00001" summary="First Commit 👀">
-      <created>1547130105805</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1547130105805</updated>
+      <workItem from="1578385656662" duration="1270000" />
     </task>
     <task id="LOCAL-00002" summary="Home Update">
       <created>1568023597161</created>
@@ -407,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578385734000</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Add 2020 pastille update 🎉">
+      <created>1578387013580</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1578387013582</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,19 +438,20 @@
     <MESSAGE value="Change SoundsGood URL" />
     <MESSAGE value="Adresse update " />
     <MESSAGE value="Add 2020 pastille " />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2020 pastille " />
+    <MESSAGE value="Add 2020 pastille update " />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 2020 pastille update " />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1578385733277">
+    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1578387013121">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="389" y="120" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1576852734594" />
-    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1578385733277" />
-    <state x="1760" y="-22" key="Vcs.Push.Dialog.v2" timestamp="1578385737097">
+    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1578387013121" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1578387017381">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1576852738922" />
-    <state x="1760" y="-22" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1578385737097" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1578387017381" />
     <state x="2865" y="68" key="search.everywhere.popup" timestamp="1578327548468">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
