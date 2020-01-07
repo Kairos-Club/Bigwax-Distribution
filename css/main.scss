@@ -450,7 +450,14 @@ li {
   overflow: hidden;
   z-index: 9997;
   filter: drop-shadow(0px 0px 1px rgba(178, 157, 107, 1));
+
+  opacity: 0;
+
   transition: all 0.2s ease-in-out;
+
+  animation:open-pastille .4s ease-out;
+  animation-delay: 2s;
+  animation-fill-mode: forwards;
 
   img {
     animation: rotating-pastille 4s linear infinite reverse;
@@ -458,8 +465,14 @@ li {
 
   &:hover {
     filter: drop-shadow(0px 0px 0px rgba(178, 157, 107, 0));
-    bottom: -20px; left: -20px;
+    bottom: -20px;
+    left: -20px;
   }
+}
+
+@keyframes open-pastille {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 
 @keyframes rotating-pastille {
