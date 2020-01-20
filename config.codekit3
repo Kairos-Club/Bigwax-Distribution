@@ -341,14 +341,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/new-index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/new-index.html",
-		"oF": 0
-		},
 	"/press/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -356,6 +348,17 @@
 		"oA": 0,
 		"oAP": "/press/index.html",
 		"oF": 0
+		},
+	"/siteicon.png": {
+		"ft": 32768,
+		"iS": 14336,
+		"oA": 0,
+		"oAP": "/siteicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
