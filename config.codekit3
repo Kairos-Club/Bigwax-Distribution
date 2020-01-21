@@ -267,12 +267,12 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/index.htm": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.htm",
+		"oAP": "/index.html",
 		"oF": 0
 		},
 	"/js/main-min.js": {
