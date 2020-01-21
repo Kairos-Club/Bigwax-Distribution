@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.codekit3" beforeDir="false" afterPath="$PROJECT_DIR$/config.codekit3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +65,8 @@
       <workItem from="1578385656662" duration="1797000" />
       <workItem from="1578389973423" duration="1712000" />
       <workItem from="1578664647466" duration="792000" />
-      <workItem from="1579532908030" duration="224000" />
-    </task>
-    <task id="LOCAL-00003" summary="Home Update">
-      <created>1568024193653</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1568024193653</updated>
+      <workItem from="1579532908030" duration="1133000" />
+      <workItem from="1579617770708" duration="426000" />
     </task>
     <task id="LOCAL-00004" summary="Home Update">
       <created>1568024200059</created>
@@ -415,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578387081439</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Page Update 🍣">
+      <created>1579533214295</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1579533214296</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,19 +445,20 @@
     <MESSAGE value="Add 2020 pastille " />
     <MESSAGE value="Add 2020 pastille update " />
     <MESSAGE value="Add 2020 pastille update 2 " />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2020 pastille update 2 " />
+    <MESSAGE value="Page Update " />
+    <option name="LAST_COMMIT_MESSAGE" value="Page Update " />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1579533183865">
+    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1579533213901">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="389" y="120" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1576852734594" />
-    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579533183865" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1578387083402">
+    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579533213901" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1579533216123">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1576852738922" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1578387083402" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579533216123" />
     <state x="2989" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579533186432">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
