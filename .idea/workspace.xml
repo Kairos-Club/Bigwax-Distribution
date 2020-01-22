@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.codekit3" beforeDir="false" afterPath="$PROJECT_DIR$/config.codekit3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,14 +68,7 @@
       <workItem from="1579532908030" duration="1133000" />
       <workItem from="1579617770708" duration="2512000" />
       <workItem from="1579681582415" duration="3000" />
-      <workItem from="1579685620575" duration="81000" />
-    </task>
-    <task id="LOCAL-00009" summary="test Netlify Identity">
-      <created>1568035513180</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1568035513180</updated>
+      <workItem from="1579685620575" duration="797000" />
     </task>
     <task id="LOCAL-00010" summary="test Netlify Identity">
       <created>1568038086107</created>
@@ -415,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579619052724</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Page Update 🐬">
+      <created>1579685738755</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1579685738756</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,19 +450,20 @@
     <MESSAGE value="Page Update " />
     <MESSAGE value="Page Update " />
     <MESSAGE value="Page Update " />
+    <MESSAGE value="Page Update " />
     <option name="LAST_COMMIT_MESSAGE" value="Page Update " />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1579619052534">
+    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1579685738380">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="389" y="120" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1576852734594" />
-    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579619052534" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1579619054357">
+    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579685738380" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1579685741354">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1576852738922" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579619054357" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579685741354" />
     <state x="2989" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579533186432">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
