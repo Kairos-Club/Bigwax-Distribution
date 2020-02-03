@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/press/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +70,8 @@
       <workItem from="1579617770708" duration="2512000" />
       <workItem from="1579681582415" duration="3000" />
       <workItem from="1579685620575" duration="1119000" />
-      <workItem from="1580485706050" duration="22000" />
-    </task>
-    <task id="LOCAL-00011" summary="test Netlify Identity">
-      <created>1568038417980</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1568038417980</updated>
+      <workItem from="1580485706050" duration="335000" />
+      <workItem from="1580724286462" duration="294000" />
     </task>
     <task id="LOCAL-00012" summary="test Netlify Identity">
       <created>1568039398483</created>
@@ -414,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579686586743</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Supend Login option, for prevent ☝️">
+      <created>1580485770199</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1580485770199</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,19 +455,24 @@
     <MESSAGE value="Page Update " />
     <MESSAGE value="Page Update " />
     <MESSAGE value="Editor update " />
-    <option name="LAST_COMMIT_MESSAGE" value="Editor update " />
+    <MESSAGE value="Supend Login option, for prevent ☝️" />
+    <option name="LAST_COMMIT_MESSAGE" value="Supend Login option, for prevent ☝️" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1580485735522">
+    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1580485769917">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="389" y="120" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1576852734594" />
-    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580485735522" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1579686588460">
+    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580485769917" />
+    <state x="2660" y="-157" width="1080" height="1218" key="DiffContextDialog" timestamp="1580485789151">
+      <screen x="1280" y="-257" width="2560" height="1418" />
+    </state>
+    <state x="2660" y="-157" width="1080" height="1218" key="DiffContextDialog/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580485789151" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1580485771909">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1576852738922" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1579686588460" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580485771909" />
     <state x="2989" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579533186432">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
