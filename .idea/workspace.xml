@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70037b38-fbf3-405e-952f-c9968d3ac652" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.codekit3" beforeDir="false" afterPath="$PROJECT_DIR$/config.codekit3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,14 +71,8 @@
       <workItem from="1579681582415" duration="3000" />
       <workItem from="1579685620575" duration="1119000" />
       <workItem from="1580485706050" duration="335000" />
-      <workItem from="1580724286462" duration="395000" />
-    </task>
-    <task id="LOCAL-00013" summary="test Netlify Identity">
-      <created>1568040762882</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1568040762882</updated>
+      <workItem from="1580724286462" duration="1602000" />
+      <workItem from="1581094653230" duration="19000" />
     </task>
     <task id="LOCAL-00014" summary="test Netlify Identity">
       <created>1568040972898</created>
@@ -415,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580725188884</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Reactive login acces link 🥁">
+      <created>1580725291523</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1580725291523</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,23 +458,24 @@
     <MESSAGE value="Editor update " />
     <MESSAGE value="Supend Login option, for prevent ☝️" />
     <MESSAGE value="Delet Custom Access " />
-    <option name="LAST_COMMIT_MESSAGE" value="Delet Custom Access " />
+    <MESSAGE value="Reactive login acces link " />
+    <option name="LAST_COMMIT_MESSAGE" value="Reactive login acces link " />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1580725188376">
+    <state x="2394" y="242" key="CommitChangelistDialog2" timestamp="1580725291315">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="389" y="120" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1576852734594" />
-    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580725188376" />
+    <state x="2394" y="242" key="CommitChangelistDialog2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580725291315" />
     <state x="2660" y="-157" width="1080" height="1218" key="DiffContextDialog" timestamp="1580485789151">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="2660" y="-157" width="1080" height="1218" key="DiffContextDialog/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580485789151" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1580725195656">
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2" timestamp="1580725293202">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
     <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.22.1280.778@0.22.1280.778" timestamp="1576852738922" />
-    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580725195656" />
+    <state x="1900" y="36" key="Vcs.Push.Dialog.v2/1280.-257.2560.1418/0.22.1280.778@1280.-257.2560.1418" timestamp="1580725293202" />
     <state x="2989" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579533186432">
       <screen x="1280" y="-257" width="2560" height="1418" />
     </state>
