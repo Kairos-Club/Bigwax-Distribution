@@ -22,6 +22,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -73,6 +74,8 @@
       <workItem from="1580485706050" duration="335000" />
       <workItem from="1580724286462" duration="1602000" />
       <workItem from="1581094653230" duration="19000" />
+      <workItem from="1582801082588" duration="110000" />
+      <workItem from="1584549778528" duration="96000" />
     </task>
     <task id="LOCAL-00014" summary="test Netlify Identity">
       <created>1568040972898</created>
