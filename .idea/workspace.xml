@@ -86,14 +86,8 @@
       <workItem from="1591102360335" duration="718000" />
       <workItem from="1591694252590" duration="460000" />
       <workItem from="1591950257032" duration="647000" />
-      <workItem from="1592235590763" duration="43000" />
-    </task>
-    <task id="LOCAL-00018" summary="test Netlify Identity">
-      <created>1568042054984</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1568042054984</updated>
+      <workItem from="1592235590763" duration="535000" />
+      <workItem from="1592817398932" duration="47000" />
     </task>
     <task id="LOCAL-00019" summary="test Netlify Identity">
       <created>1568042203211</created>
@@ -431,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591694337245</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Player Update 🦄">
+      <created>1592235650494</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1592235650495</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,16 +476,17 @@
     <MESSAGE value="Player Update " />
     <MESSAGE value="Player Update ⚡️" />
     <MESSAGE value="Player Update " />
+    <MESSAGE value="Player Update " />
     <option name="LAST_COMMIT_MESSAGE" value="Player Update " />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2394" y="163" key="CommitChangelistDialog2" timestamp="1591694336909">
+    <state x="2394" y="163" key="CommitChangelistDialog2" timestamp="1592235650212">
       <screen x="1280" y="-336" width="2560" height="1417" />
     </state>
-    <state x="2394" y="163" key="CommitChangelistDialog2/1280.-336.2560.1417/0.23.1280.777@1280.-336.2560.1417" timestamp="1591694336909" />
-    <state x="1900" y="-43" key="Vcs.Push.Dialog.v2" timestamp="1591694339905">
+    <state x="2394" y="163" key="CommitChangelistDialog2/1280.-336.2560.1417/0.23.1280.777@1280.-336.2560.1417" timestamp="1592235650212" />
+    <state x="1900" y="-43" key="Vcs.Push.Dialog.v2" timestamp="1592235653022">
       <screen x="1280" y="-336" width="2560" height="1417" />
     </state>
-    <state x="1900" y="-43" key="Vcs.Push.Dialog.v2/1280.-336.2560.1417/0.23.1280.777@1280.-336.2560.1417" timestamp="1591694339905" />
+    <state x="1900" y="-43" key="Vcs.Push.Dialog.v2/1280.-336.2560.1417/0.23.1280.777@1280.-336.2560.1417" timestamp="1592235653022" />
   </component>
 </project>
